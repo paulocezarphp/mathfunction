@@ -1,0 +1,12 @@
+<?php
+    include("combinatorial_probability.php");
+    include("degree_equations.php");
+    include("functions.php");
+    include("geometry.php");
+    include("logarithms.php");
+    include("percentage.php");
+    include("progression.php");
+    include("sets.php");
+    include("statistic.php");
+    include("trigonometry.php");
+?>
